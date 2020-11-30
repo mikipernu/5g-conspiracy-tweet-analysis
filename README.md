@@ -1,4 +1,4 @@
-# 5G Conspiracy Tweets
+# 5G Conspiracy Tweet Analysis
 
 This project introduces a simple workflow for analyzing Tweets for conspiratory content.
 
